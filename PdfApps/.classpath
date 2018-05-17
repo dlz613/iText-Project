@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/Base64.jar"/>
+	<classpathentry kind="lib" path="lib/bcmail-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/bcmail-jdk15.jar.zip"/>
+	<classpathentry kind="lib" path="lib/bcprov-ext-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-ext-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-imaging-1.0-20140718.072703-11.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/ghost4j-0.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/javassist.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/PDFTextStream.jar"/>
+	<classpathentry kind="lib" path="lib/PRNA.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-conversion-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-core-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-example-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-icepdf-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-image-writers-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-itext-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-master.zip"/>
+	<classpathentry kind="lib" path="lib/sejda-model-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/sejda-pdfbox-1.0.0.M9.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AmanApps"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/itextpdf-5.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/itext-xtra-5.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Desktop/itext-5.5.7/itext-pdfa-5.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/fontbox-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/pdfbox-tools-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/pdfbox-2.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
