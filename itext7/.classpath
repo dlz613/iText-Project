@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AmanApps"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/AmanApps/lib/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/AmanApps/lib/batik-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/AmanApps/lib/batik-bridge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/AmanApps/lib/batik-gvt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/AmanApps/lib/batik-ext-1.6-1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FormIT"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/slf4j-simple-1.6.99.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/AmanApps/lib/batik-dom-1.7.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PdfApps"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/itext-xtra-5.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/PdfApps/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Desktop/itext-5.5.7/itextpdf-5.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/iTextImpl/lib/batik-transcoder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/io-7.1.1.jar" sourcepath="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/io-7.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/io-7.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/forms-7.1.1.jar" sourcepath="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/forms-7.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/forms-7.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/barcodes-7.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/layout-7.1.1.jar" sourcepath="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/layout-7.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/layout-7.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/pdftest-7.1.1.jar" sourcepath="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/pdftest-7.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/pdftest-7.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/pdfa-7.1.1.jar" sourcepath="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/pdfa-7.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/pdfa-7.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/kernel-7.1.1.jar" sourcepath="C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/kernel-7.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/davidz/Dropbox/work/Eclipse_workspace/itext7/lib/kernel-7.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
